@@ -1,0 +1,18 @@
+---
+layout: sida
+id: uppgifter
+title: Uppgifter
+permalink: /uppgifter/
+description: Hannah Kodads uppgifter från IT-pedagogutbildningen på Tärna folkhögskola.
+---
+<p class="ingress">Mina uppgifter från IT-pedagogutbildningen. Den senaste ligger överst.</p>
+<div class="inlagg">
+  {% assign uppg = site.posts | where: "kategori", "uppgift" %}
+  {% for post in uppg %}
+  <a class="kort" href="{{ post.url | relative_url }}">
+    <p class="datum">{% if post.kurs %}{{ post.kurs }} · {% endif %}{{ post.date | date: "%Y-%m-%d" }}</p>
+    <h2>{{ post.title }}</h2>
+    {% if post.ingress %}<p>{{ post.ingress }}</p>{% endif %}
+  </a>
+  {% endfor %}
+</div>

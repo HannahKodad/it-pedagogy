@@ -1,0 +1,64 @@
+/* =========================================================
+   DESIGNTOKENS – färger, typsnitt, former.
+   Ändra här, så ändras hela webbplatsen.
+   Paletten: Hannahs sju färger, där gult är utbytt mot guld,
+   plus petrol från Smartflow AI.
+   Kontrast (WCAG) är kontrollerad – se kommentarerna.
+   ========================================================= */
+
+@font-face {
+  font-family: "Marcellus";
+  src: url("../fonts/marcellus-latin-400-normal.woff2") format("woff2");
+  font-weight: 400; font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Marcellus";
+  src: url("../fonts/marcellus-latin-ext-400-normal.woff2") format("woff2");
+  font-weight: 400; font-display: swap;
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("../fonts/source-sans-3-latin-wght-normal.woff2") format("woff2");
+  font-weight: 200 900; font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("../fonts/source-sans-3-latin-ext-wght-normal.woff2") format("woff2");
+  font-weight: 200 900; font-display: swap;
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+:root {
+  /* Bas */
+  --bakgrund: #FFFDF9;  /* varm vit */
+  --yta:      #FBF6EE;  /* sidfot: en aning varmare än bakgrunden */
+  --vit:      #FFFFFF;  /* kort */
+
+  /* Text: petrol på bakgrunden 7.0:1 */
+  --text:     #2F5D6E;
+  --text-mork:#15352A;  /* text på ljusa färgfält (över 7:1) */
+
+  /* Paletten */
+  --persika:  #FAC396;
+  --rosa:     #DBAFC2;
+  --salvia:   #BAC696;
+  --gron:     #1D5C42;  /* + vit text 7.9:1 */
+  --guld:     #D9A441;
+  --hallon:   #DA487E;  /* ramar och detaljer */
+  --hallon-fylld: #C23A6C; /* hallon som fyllning, + vit text 5.1:1 */
+  --himmel:   #72B5CC;
+  --petrol:   #2F5D6E;  /* + vit text 7.2:1 */
+  --lavendel: #A79BBF;  /* från Smartflow AI, ramar och detaljer */
+
+  /* Typsnitt: högst två */
+  --rubrik: "Marcellus", Georgia, serif;
+  --brod:   "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  /* Former */
+  --knapp-horn: 15px;  /* knappar och meny */
+  --ram-horn:   28px;  /* "tv-ramen" runt nyhetsbrevet */
+  --bredd: 1040px;
+}

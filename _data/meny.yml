@@ -1,0 +1,18 @@
+# Huvudmenyn. Ordningen här är ordningen på webbplatsen.
+# "farg" = flikens färg (ram vid hover och när fliken är vald), se farger.css.
+- namn: Start
+  url: /
+  id: start
+  farg: petrol
+- namn: Uppgifter
+  url: /uppgifter/
+  id: uppgifter
+  farg: hallon
+- namn: Länkar
+  url: /lankar/
+  id: lankar
+  farg: guld
+- namn: Om mig
+  url: /om-mig/
+  id: om-mig
+  farg: himmel

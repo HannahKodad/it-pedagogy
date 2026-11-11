@@ -1,0 +1,18 @@
+<footer class="sidfot">
+  <div class="wrap">
+    <div>
+      <h2>Hannah Kodad</h2>
+      <p class="liten">Hannahs studiersida. IT-pedagogstudent på Tärna folkhögskola.</p>
+      <p class="liten">© {{ 'now' | date: "%Y" }} Hannah Kodad</p>
+    </div>
+    <div>
+      <h2>Kontakt</h2>
+      <ul class="liten">
+        <li><a href="mailto:{{ site.data.kontakt.epost }}">{{ site.data.kontakt.epost }}</a></li>
+        {% for l in site.data.kontakt.lankar %}
+        <li><a href="{{ l.url }}" rel="me noopener">{{ l.namn }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</footer>

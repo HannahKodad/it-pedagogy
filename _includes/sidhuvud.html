@@ -1,0 +1,15 @@
+<a class="hoppa" href="#innehall">Hoppa till innehåll</a>
+<header class="sidhuvud">
+  <div class="wrap">
+    <a class="logo" href="{{ '/' | relative_url }}">
+      Hannah Kodad
+    </a>
+    <nav aria-label="Huvudmeny">
+      <ul class="meny">
+        {% for m in site.data.meny %}
+        <li><a href="{{ m.url | relative_url }}" style="--f: var(--{{ m.farg }})"{% if page.id == m.id %} aria-current="page"{% endif %}>{{ m.namn }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

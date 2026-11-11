@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /robots.txt
+---
+# Alla sökmotorer och AI-assistenter är välkomna.
+User-agent: *
+Allow: /
+
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml

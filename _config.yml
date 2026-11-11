@@ -1,0 +1,14 @@
+# Grundinställningar för webbplatsen
+title: Hannah Kodad
+tagline: Hannahs studiersida
+description: Hannah Kodads skolwebbplats – IT-pedagogutbildningen på Tärna folkhögskola. Uppgifter och länkar.
+lang: sv
+author: Hannah Kodad
+# Repot heter "it-pedagogy": adressen blir https://hannahkodad.github.io/it-pedagogy
+url: "https://hannahkodad.github.io"
+baseurl: "/it-pedagogy"
+permalink: /uppgifter/:year/:month/:title/
+markdown: kramdown
+timezone: Europe/Stockholm
+exclude:
+  - README.md

@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Hannah Kodad – skolwebbplats
+
+> Hannah Kodads webbplats för IT-pedagogutbildningen (distans) på Tärna folkhögskola. Här publicerar hon sina uppgifter. Hennes personliga webbplats finns på https://hannahkodad.github.io/personal-website/.
+
+## Sidor
+- [Start]({{ site.url }}{{ site.baseurl }}/): presentation
+- [Uppgifter]({{ site.url }}{{ site.baseurl }}/uppgifter/): uppgifter från utbildningen
+- [Länkar]({{ site.url }}{{ site.baseurl }}/lankar/): tio webbplatser hon gillar
+- [Om mig]({{ site.url }}{{ site.baseurl }}/om-mig/)
+
+## Kontakt
+- E-post: {{ site.data.kontakt.epost }}

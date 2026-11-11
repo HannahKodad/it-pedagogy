@@ -1,0 +1,43 @@
+{% capture sidtitel %}{% if page.title and page.id != 'start' %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }} – {{ site.tagline }}{% endif %}{% endcapture %}
+{% capture sidbeskr %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ sidtitel }}</title>
+<meta name="description" content="{{ sidbeskr }}">
+<meta name="author" content="{{ site.author }}">
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+<link rel="alternate" hreflang="sv" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+
+<!-- Förhandsvisning när länken delas (Open Graph) -->
+<meta property="og:type" content="website">
+<meta property="og:locale" content="sv_SE">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ sidtitel }}">
+<meta property="og:description" content="{{ sidbeskr }}">
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Typsnitt och stil: allt ligger på webbplatsen själv, inget från andra servrar -->
+<link rel="preload" href="{{ '/assets/fonts/source-sans-3-latin-wght-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ '/assets/fonts/marcellus-latin-400-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ '/assets/css/farger.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="icon" href="{{ '/assets/img/logo-hk.png' | relative_url }}" type="image/png">
+<meta name="theme-color" content="#FFFBF2">
+
+<!-- Strukturerad data: berättar för Google och AI-assistenter vem som står bakom webbplatsen -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Hannah Kodad",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "jobTitle": "IT-pedagogstudent",
+  "affiliation": { "@type": "EducationalOrganization", "name": "Tärna folkhögskola", "url": "https://tarna.fhsk.se" },
+  "homeLocation": { "@type": "Country", "name": "Sverige" },
+  "knowsLanguage": ["sv", "cs", "en"],
+  "email": "mailto:{{ site.data.kontakt.epost }}",
+  "sameAs": [{% for l in site.data.kontakt.lankar %}"{{ l.url }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]
+}
+</script>

@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for p in site.pages %}{% unless p.url contains '.xml' or p.url contains '.txt' or p.url contains '404' %}  <url><loc>{{ site.url }}{{ site.baseurl }}{{ p.url }}</loc></url>
+{% endunless %}{% endfor %}{% for p in site.posts %}  <url><loc>{{ site.url }}{{ site.baseurl }}{{ p.url }}</loc><lastmod>{{ p.date | date: "%Y-%m-%d" }}</lastmod></url>
+{% endfor %}</urlset>

@@ -1,0 +1,20 @@
+---
+layout: sida
+id: lankar
+title: Länkar jag gillar
+permalink: /lankar/
+description: Webbplatser som Hannah Kodad gillar och använder – AI, utbildning, natur och haiku.
+---
+<p class="ingress">Webbplatser jag använder och tycker om.</p>
+<ul class="lankar">
+  {% for l in site.data.lankar %}
+  <li class="lank">
+    <span class="ruta" aria-hidden="true">{{ l.initialer }}</span>
+    <div>
+      <h2><a href="{{ l.url }}">{{ l.namn }}</a></h2>
+      <p>{{ l.text }}</p>
+      <a class="doman" href="{{ l.url }}">{{ l.domain }} ↗</a>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
