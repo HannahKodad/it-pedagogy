@@ -4,7 +4,7 @@ kategori: uppgift
 title: "Presentationsverktyg: Gamma.app"
 amne: "Presentationsverktyg"
 nr: "14"
-ordning: "14a"
+ordning: "14b"
 namn: "Gamma.app"
 ---
 
