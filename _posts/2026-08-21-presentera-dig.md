@@ -9,6 +9,22 @@ namn: "Jag heter Hannah"
 ingress: "Min första uppgift: en kort presentation av mig själv."
 ---
 
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>Välkommen till IT-pedagogutbildningen! Den här uppgiften gör du innan vi ses på uppstartsträffen.</p>
+<p>Skriv en presentation av dig själv i kursflödet så att alla kurskamrater och lärare kan läsa den. Det ska vara personligt och enkelt. Berätta gärna:</p>
+<ul>
+<li>Vem du är och var du bor</li>
+<li>Vad du har gjort tidigare</li>
+<li>Varför du valt den här utbildningen</li>
+</ul>
+<p>När du är klar markerar du uppgiften som klar här i Classroom.</p>
+<p>Varje kurs på utbildningen har ett dokument som heter "Om kursen". Där hittar du alltid syfte, innehåll, tidsåtgång och examination. Ibland finns även litteraturtips och länkar. Det är alltid det första du läser när en ny kurs startar. Du hittar det kopplat till den här uppgiften.</p>
+<p>Passa på att läsa vad dina kurskamrater skriver om sig själva. Kanske finns det någon från din kant som du kan samåka med?</p>
+<p>Vi ses på Tärna den 21–22 augusti.</p>
+<p>Lycka till och välkommen!</p>
+</div>
+
 Hej,
 Jag heter Hannah.
 
