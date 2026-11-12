@@ -11,6 +11,15 @@ ingress: "Bilderna från vår presentation om Slido och mitt manus."
 
 <p class="grupp">Det här är ett arbete i par med en kompis. Här visar jag mina delar av arbetet.</p>
 
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>Den muntliga redovisningen utgår från den skriftliga inlämningen.<br>Syftet med era muntliga redovisningar är att ge alla en överblick i vilka digitala verktyg som finns.</p>
+<p>Visa upp ert valda digitala verktyg inför hela gruppen. Berätta om hur verktyget fungerar och dess syfte, målgrupp, möjligheter och risker. Hur gick det när ni testade verktyget? Vilka lärdomar tog ni med er? Använd gärna screenshots så att vi får en visuell bild av verktyget.</p>
+<p>Varje par har endast 5 minuter till sitt förfogande, så välj ut det viktigaste med verktyget.</p>
+<p>Redovisningen sker under träff 4, fredagen den 13 november.<br>Markera uppgiften som klar efter att ni har redovisat på plats.</p>
+</div>
+
+
 <nav class="delar" aria-label="Delar">
   <a href="#presentation">Presentation</a>
   <a href="#manus">Manus</a>
