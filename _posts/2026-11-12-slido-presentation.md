@@ -27,13 +27,13 @@ ingress: "Bilderna från vår presentation om Slido och mitt manus."
 
 <h2 id="manus">Manus</h2>
 
-### Inledning (Hannah – ca 25 s)
+### Inledning (Hannah)
 
 **På bilden:** Slido – startsidan med QR-kod
 
 **Text:** Första gången jag mötte Slido var som student. Läraren ställde en fråga och vi svarade via mobilen. Den här gången testade vi Slido i lärarens roll. Jag tycker att Slido är ett bra sätt för läraren att få relevant information från hela gruppen av studenter. På bilderna finns en QR-kod, så att ni själva kan prova Slido i slutet. Öppna gärna appen i era telefoner.
 
-### Så fungerar Slido, syfte, målgrupp och risker (min kompis – ca 50 s)
+### Så fungerar Slido, syfte, målgrupp och risker (min kompis)
 
 **Skärmbild:** listan med typer av interaktioner
 
@@ -41,7 +41,7 @@ ingress: "Bilderna från vår presentation om Slido och mitt manus."
 
 **Risker:** gratisversionen har bara fyra omröstningar per slido, och frågor från publiken kostar extra. Verktyget kräver internet och mobiler. Och Slido undervisar inte själv – om läraren inte arbetar vidare med svaren blir det bara en omröstning.
 
-### Möjligheter och PIC-RAT (Hannah – ca 50 s)
+### Möjligheter och PIC-RAT (Hannah)
 
 **Skärmbild:** mobilen med ”Voting as Anonymous” och PIC-RAT-matrisen med rutan I-A markerad
 
@@ -49,7 +49,7 @@ ingress: "Bilderna från vår presentation om Slido och mitt manus."
 
 Med PIC-RAT är studenterna i Slido oftast **Interactive**, och tekniken **förstärker (Amplify)** en vanlig fråga – rutan I-A. När studenterna själva börjar skapa och skickar egna frågor eller idéer, rör sig Slido mot **Creative**, och om läraren använder resultaten i det fortsatta arbetet kommer vi till **Transform**.
 
-### Test (Hannah – ca 40 s)
+### Test (Hannah)
 
 **Skärmbilder:** rangordningen från familjetestet, frågan om AI från klassen
 
@@ -59,7 +59,7 @@ Det andra testet, i skolan i ”svenska som andraspråk”, visade fler problemo
 
 Själv tar jag med mig erfarenheten av Slido, och jag kommer säkert att använda det vidare i praktiken.
 
-### Slutsats: Live-demo (ca 80 s)
+### Slutsats: Live-demo
 
 **Bild:** QR-kod och frågan (bedömning)
 
