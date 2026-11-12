@@ -17,7 +17,7 @@ ingress: "Teckensnitt, storlek, färg, understrykning och effekter."
 
 Rubrikerna har färgöverstrykning Grå-25 %, och indragningarna är gjorda med tabbstopp.
 
-<figure class="uppg-bild">
+<figure class="uppg-bild papper">
   <img src="{{ '/assets/img/uppgifter/teckenformat-1.webp' | relative_url }}" alt="Dokumentet Olika teckenformat: teckensnitten Arial, Courier New, Verdana och Times New Roman, format, storlekar, teckenfärger, understrykning och effekter." width="900" height="1181" loading="lazy">
 </figure>
 

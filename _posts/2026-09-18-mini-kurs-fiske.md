@@ -33,8 +33,8 @@ namn: "Mini-kurs – Fiske"
 <p><strong>Inlämning:</strong> Skicka in dokumentet i Classroom när du är färdig med uppgiften.</p>
 </div>
 
-<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/fiske-1.webp' | relative_url }}" alt="Dokumentet Fiske, sida 1." width="900" height="1165" loading="lazy"><figcaption>Sida 1</figcaption></figure>
-<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/fiske-2.webp' | relative_url }}" alt="Dokumentet Fiske, sida 2." width="900" height="1165" loading="lazy"><figcaption>Sida 2</figcaption></figure>
-<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/fiske-3.webp' | relative_url }}" alt="Dokumentet Fiske, sida 3." width="900" height="1165" loading="lazy"><figcaption>Sida 3</figcaption></figure>
-<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/fiske-4.webp' | relative_url }}" alt="Dokumentet Fiske, sida 4." width="900" height="1165" loading="lazy"><figcaption>Sida 4</figcaption></figure>
-<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/fiske-5.webp' | relative_url }}" alt="Dokumentet Fiske, sida 5." width="900" height="1165" loading="lazy"><figcaption>Sida 5</figcaption></figure>
+<figure class="uppg-bild papper"><img src="{{ '/assets/img/uppgifter/fiske-1.webp' | relative_url }}" alt="Dokumentet Fiske, sida 1." width="900" height="1165" loading="lazy"><figcaption>Sida 1</figcaption></figure>
+<figure class="uppg-bild papper"><img src="{{ '/assets/img/uppgifter/fiske-2.webp' | relative_url }}" alt="Dokumentet Fiske, sida 2." width="900" height="1165" loading="lazy"><figcaption>Sida 2</figcaption></figure>
+<figure class="uppg-bild papper"><img src="{{ '/assets/img/uppgifter/fiske-3.webp' | relative_url }}" alt="Dokumentet Fiske, sida 3." width="900" height="1165" loading="lazy"><figcaption>Sida 3</figcaption></figure>
+<figure class="uppg-bild papper"><img src="{{ '/assets/img/uppgifter/fiske-4.webp' | relative_url }}" alt="Dokumentet Fiske, sida 4." width="900" height="1165" loading="lazy"><figcaption>Sida 4</figcaption></figure>
+<figure class="uppg-bild papper"><img src="{{ '/assets/img/uppgifter/fiske-5.webp' | relative_url }}" alt="Dokumentet Fiske, sida 5." width="900" height="1165" loading="lazy"><figcaption>Sida 5</figcaption></figure>

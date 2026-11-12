@@ -16,6 +16,6 @@ namn: "IT-trender"
 <p><strong>Inlämning:</strong> Skicka in det färdiga dokumentet i Classroom när du är färdig med uppgiften.</p>
 </div>
 
-<figure class="uppg-bild">
+<figure class="uppg-bild papper">
   <img src="{{ '/assets/img/uppgifter/it-trender.webp' | relative_url }}" alt="Min kopia av dokumentet IT-trender 2011 med logotyp, rubriker, brödtext och sidfot." width="900" height="1218" loading="lazy">
 </figure>
