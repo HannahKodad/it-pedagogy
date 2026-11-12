@@ -4,7 +4,7 @@ kategori: uppgift
 title: "Ordbehandling: Koppla dokument"
 amne: "Ordbehandling"
 nr: "05"
-ordning: "05a"
+ordning: "05d"
 namn: "Koppla dokument"
 ingress: "Ett brev till 148 mottagare – med Word och en Excel-lista."
 ---

@@ -4,7 +4,7 @@ kategori: uppgift
 title: "Ordbehandling: Olika teckenformat"
 amne: "Ordbehandling"
 nr: "05"
-ordning: "05b"
+ordning: "05a"
 namn: "Olika teckenformat"
 ingress: "Teckensnitt, storlek, färg, understrykning och effekter."
 ---

@@ -4,7 +4,7 @@ kategori: uppgift
 title: "Ordbehandling: IT-trender"
 amne: "Ordbehandling"
 nr: "05"
-ordning: "05b2"
+ordning: "05b"
 namn: "IT-trender"
 ---
 
