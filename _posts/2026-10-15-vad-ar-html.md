@@ -10,6 +10,11 @@ namn: "Vad är HTML?"
 ingress: "De viktigaste HTML-taggarna och attributen – förklarade med egna ord."
 ---
 
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>I denna deluppgift b) ska ni förklara vad respektive html-tagg betyder.<br>Börja med att skapa ett nytt Google dokument. Dokumentet ska ha ett försättsblad och sidnumrering. Kopiera in listan nedan och skriv en kort förklaring efter varje tagg. En eller två meningar räcker. Spara dokumentet med ditt för- och efternamn.</p>
+</div>
+
 ## Sidans grundstruktur
 
 - `<!DOCTYPE html>` – Visar att dokumentet är skrivet i HTML5. Den ska stå först i dokumentet.

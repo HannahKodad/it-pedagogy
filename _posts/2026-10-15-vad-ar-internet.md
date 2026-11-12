@@ -10,6 +10,12 @@ namn: "Vad är internet?"
 ingress: "Mina svar med egna ord: ARPANET, DNS, TCP/IP, HTTPS, IPv6, VPN, molnet, cookies och mer."
 ---
 
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>I denna deluppgift a) ska ni svara på frågorna nedan.<br>Börja med att skapa ett nytt Google dokument. Dokumentet ska ha ett försättsblad och sidnumrering. Kopiera frågorna nedan in i dokumentet. Skicka in dokumentet när ni är färdig. Spara ditt dokumentnamn med för och efternamn.</p>
+<p>Svara med egna ord.</p>
+</div>
+
 **1. Vilket år togs ARPANET i drift, och vad var det ursprungliga syftet med nätverket?**
 
 ARPANET togs i drift år 1969 för att koppla samman fyra forskningsinstitutioner, så att forskare kunde dela på dyra datorer och deras datorkapacitet.
