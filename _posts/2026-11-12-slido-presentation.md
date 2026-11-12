@@ -22,7 +22,8 @@ ingress: "Bilderna från vår presentation om Slido och mitt manus."
 <figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/slido-2.webp' | relative_url }}" alt="Bild 2: Så fungerar Slido, syfte och risker." width="1000" height="563" loading="lazy"></figure>
 <figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/slido-3.webp' | relative_url }}" alt="Bild 3: Möjligheter och PIC-RAT-matrisen, där Slido står i rutan Interactive–Amplify." width="1000" height="563" loading="lazy"></figure>
 <figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/slido-4.webp' | relative_url }}" alt="Bild 4: Test med familjen och test i svenska som andraspråk, med skärmbilder." width="1000" height="563" loading="lazy"></figure>
-<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/slido-6.webp' | relative_url }}" alt="Bild 5: Nu är det er tur! Ge 1–5 stjärnor: hur tycker ni om Slido?" width="1000" height="563" loading="lazy"></figure>
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/slido-5.webp' | relative_url }}" alt="Bild 5: Test med …" width="1000" height="563" loading="lazy"></figure>
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/slido-6.webp' | relative_url }}" alt="Bild 6: Nu är det er tur! Ge 1–5 stjärnor: hur tycker ni om Slido?" width="1000" height="563" loading="lazy"></figure>
 
 <h2 id="manus">Manus</h2>
 
