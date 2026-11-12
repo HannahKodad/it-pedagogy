@@ -9,6 +9,21 @@ namn: "Google Workspace"
 ingress: "Mina svar på frågor om Google-kontot, Gmail, Classroom, Drive, Dokument och Meet."
 ---
 
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>I denna deluppgift ska du formulera en fråga som handlar om distansarbete och någon av apparna i Google Workspace (t.ex. Gmail, Drive, Dokument, Meet, Classroom).</p>
+<p>Tänk igenom innan om din fråga ska vara:</p>
+<ul>
+<li>Öppen fråga – där svaret kan vara utförligt och variera mellan deltagarna.</li>
+<li>Sluten fråga – där svaret oftast är kort och konkret (t.ex. Ja/Nej eller ett specifikt alternativ).</li>
+</ul>
+<p>Exempel på en öppen fråga: 'Hur brukar du organisera dina mejl i Gmail?'<br>Exempel på en sluten fråga: 'Har du någon gång skickat e-post från fel Google-konto av misstag? Ja/Nej.</p>
+<p>Publicera frågan i kursens flöde i Google Classroom så att alla kursdeltagare kan se den.</p>
+<p>Svara på minst en av dina kurskamraters frågor i flödet.</p>
+<p>När du är klar så markerar du uppgiften som Klar här i Google Classroom.</p>
+<p><strong>Inlämning:</strong><br>I den här uppgiften finns inget dokument att lämna in. Du markerar den istället som Klar när du publicerat din fråga och svarat på en kurskamrats. Det är viktigt att du förstår skillnaden mellan att lämna in en uppgift och att markera den som klar i Classroom.</p>
+</div>
+
 <nav class="delar" aria-label="Delar">
   <a href="#konto">1. Ditt Google-konto</a>
   <a href="#gmail">2. Gmail</a>
