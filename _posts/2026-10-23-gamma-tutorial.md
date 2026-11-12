@@ -1,7 +1,7 @@
 ---
 layout: post
 kategori: uppgift
-title: "En video om Gamma"
+title: "Presentationsverktyg – Gamma.app"
 ingress: "Vad gör en instruktionsvideo till ett bra undervisningsmaterial?"
 ---
 
