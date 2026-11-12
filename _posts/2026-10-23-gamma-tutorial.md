@@ -21,4 +21,4 @@ Slutet på videon är kort och snabbt: Här avslutar ni, och så är det klart. 
 
 Vad gör den här videon till ett bra undervisningsmaterial? I den valda videon tycker jag om sättet som den unga kvinnan presenterar på – videon är gjord för att lära studenter, inte för chefer eller marknadsföring. Hon talar tydligt och direkt. Som exempel på hur man arbetar med bilder använder hon valpar. Hon är ännu ingen professionell talare, men hon är väldigt naturlig och videon är lätt att följa. Det är inspirerande för mig eftersom jag arbetar med vuxna, och hennes sätt ger mig bra inspiration till hur man kan undervisa unga människor.
 
-<https://www.youtube.com/watch?v=VgH5wWVy_64>
+<a href="https://www.youtube.com/watch?v=VgH5wWVy_64&pp=ygUOZ2FtbWEgdHV0b3JpYWw%3D" target="_blank" rel="noopener">https://www.youtube.com/watch?v=VgH5wWVy_64&pp=ygUOZ2FtbWEgdHV0b3JpYWw%3D</a>
