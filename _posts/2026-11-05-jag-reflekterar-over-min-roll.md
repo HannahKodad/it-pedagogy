@@ -9,6 +9,25 @@ namn: "Jag reflekterar över min roll som aktiv deltagare, studerande och handle
 ingress: "Hur jag lär mig, hur AI hjälper mig och hur jag vill handleda andra."
 ---
 
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>Betygsatt</p>
+<p>Dessa punkter är hämtade från uppgiftens syfte...</p>
+<ul>
+<li>att reflektera över sitt eget lärande</li>
+<li>att vara aktivt delaktig i klassens lärande.</li>
+<li>att ta ansvar för att bidra med sitt eget kunnande och sina egna erfarenheter.</li>
+<li>att vara ett stöd för de andra i klassen.</li>
+<li>att utveckla sina egna färdigheter och kunskaper vad gäller handledning genom att aktivt prova handledning på sina klasskamrater vid träffarna och i Google Classroom där vårt virtuella klassrum finns.</li>
+</ul>
+<p><strong>Uppgift:</strong><br>Reflektera över din roll som aktiv deltagare, studerande och handledare vad gäller punkterna ovan. Komplettera med att berätta hur du gör när du</p>
+<ul>
+<li>reflekterar och befäster dina kunskaper på sådant du lärt dig?</li>
+<li>hur har du upptäckt att du bäst lär dig nya svåra saker?</li>
+</ul>
+<p>Skriv ner detta och skicka in det till mig här, markera sedan uppgiften som klar (ca 1-2 A4-sidor)</p>
+</div>
+
 Det jag lär mig mest är hur man undervisar på ett svenskt sätt. Jag har bara bott i Sverige i två år och upplever stora skillnader, särskilt i förhållningssättet till eleverna och i synen på själva lärandet.
 
 När jag lär mig något nytt och svårt behöver jag först förstå systemet och hur det jag lär mig fungerar. Jag behöver höra och se en förklaring, prova själv, sedan studera vidare på egen hand och till sist använda kunskaperna i praktiken. Praktisk erfarenhet är mycket viktig för mig. I Google Workspace räcker det till exempel inte för mig att veta hur ett enskilt verktyg fungerar. Jag behöver också förstå hur det passar in i hela Googles ekosystem.
