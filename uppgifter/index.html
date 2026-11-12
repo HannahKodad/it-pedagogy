@@ -15,8 +15,11 @@ description: Hannah Kodads uppgifter från IT-pedagogutbildningen på Tärna fol
 {% if lista.size > 0 %}
 <section class="amne" id="{{ a.namn | slugify }}" style="--a: var(--{{ a.farg }})">
   <h2>{{ a.namn }}</h2>
+  {% assign delar = lista | map: "del" | uniq %}
+  {% for d in delar %}
+  {% if d %}<h3 class="del">{{ d }}</h3>{% assign dlista = lista | where: "del", d %}{% else %}{% assign dlista = lista %}{% endif %}
   <div class="inlagg">
-    {% for post in lista %}
+    {% for post in dlista %}
     <a class="kort" href="{% if post.extern %}{{ post.extern }}{% else %}{{ post.url | relative_url }}{% endif %}"{% if post.extern %} target="_blank" rel="noopener"{% endif %}>
       <h3>{{ post.namn | default: post.title }}</h3>
       {% if post.ingress %}<p>{{ post.ingress }}</p>{% endif %}
@@ -24,6 +27,7 @@ description: Hannah Kodads uppgifter från IT-pedagogutbildningen på Tärna fol
     </a>
     {% endfor %}
   </div>
+  {% endfor %}
 </section>
 {% endif %}
 {% endfor %}
