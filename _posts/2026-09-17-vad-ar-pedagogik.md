@@ -6,8 +6,10 @@ amne: "Vad är pedagogik?"
 nr: "03"
 ordning: "03a"
 namn: "Vad är pedagogik?"
-ingress: "Ett grupparbete om vad som gör en bra pedagog."
+ingress: "Ett grupparbete med två kompisar om vad som gör en bra pedagog."
 ---
+
+<p class="grupp">Det här är ett grupparbete. Jag har gjort det tillsammans med två kompisar.</p>
 
 ## Uppgiften
 
