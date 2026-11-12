@@ -3,59 +3,59 @@
 - namn: Den här webbplatsens kod
   url: https://github.com/HannahKodad/it-pedagogy
   domain: github.com
-  ikon: kod
+  ikon: github
   text: Koden bakom den här webbplatsen. Här kan du se hur den är byggd.
 
 - namn: Smartflow AI på LinkedIn
   url: https://www.linkedin.com/company/106795663/
   domain: linkedin.com
-  ikon: foretag
+  ikon: smartflow
   text: Mitt företag. Här delar jag om AI och automatisering för små företag.
 
 - namn: AI Sweden
   url: https://www.ai.se/sv
   domain: ai.se
-  ikon: natverk
+  ikon: aisweden
   text: Sveriges nationella center för tillämpad AI. Här följer jag vad som händer inom AI i Sverige.
 
 - namn: Women in AI Sweden
   url: https://womeninaisweden.com
   domain: womeninaisweden.com
-  ikon: kvinna
+  ikon: womeninai
   text: Den svenska grenen av Women in AI. De arbetar för att fler kvinnor ska ta plats inom AI.
 
 - namn: AI v kostce
   url: https://aivkostce.cz
   domain: aivkostce.cz
-  ikon: podd
+  ikon: aivkostce
   text: En tjeckisk podd och utbildning om AI, mänskligt och med humor. Min inspiration för den här webbplatsen.
 
 - namn: Tärna folkhögskola
   url: https://tarna.fhsk.se
   domain: tarna.fhsk.se
-  ikon: bok
+  ikon: tarna
   text: Här läser jag IT-pedagogik på distans.
 
 - namn: Stensunds folkhögskola
   url: https://stensund.se/utbildningar/natur-och-aventyrsguide-distans/
   domain: stensund.se
-  ikon: kompass
+  ikon: stensund
   text: Utbildning till natur- och äventyrsguide. Jag planerar att gå den, för guidning är också mitt jobb.
 
 - namn: Babička na treku
   url: https://babickanatreku.cz
   domain: babickanatreku.cz
-  ikon: ryggsack
+  ikon: babicka
   text: Projektet där jag är partner för Sverige. Vandringar och resor i Sverige.
 
 - namn: Allemansrätten
   url: https://www.naturvardsverket.se/amnesomraden/allemansratten/
   domain: naturvardsverket.se
-  ikon: gran
+  ikon: allemansratt
   text: Naturvårdsverket om vad du får och inte får göra i naturen. Viktigt för alla mina gäster.
 
 - namn: Svenska Haikusällskapet
   url: https://haiku-shs.org/att%20skriva.html
   domain: haiku-shs.org
-  ikon: pensel
+  ikon: haiku
   text: En guide till att skriva haiku, med form, årstidsord och känsla.

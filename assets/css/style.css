@@ -119,7 +119,8 @@ p { margin: 0 0 1em; }
 .lank { display: grid; grid-template-columns: 64px 1fr; gap: 18px; align-items: start; background: var(--vit); padding: 20px; border-left: 6px solid var(--a, var(--petrol)); }
 .lank:nth-child(8n+2) { --a: var(--hallon); } .lank:nth-child(8n+3) { --a: var(--persika); } .lank:nth-child(8n+4) { --a: var(--guld); }
 .lank:nth-child(8n+5) { --a: var(--salvia); } .lank:nth-child(8n+6) { --a: var(--gron); } .lank:nth-child(8n+7) { --a: var(--himmel); } .lank:nth-child(8n+8) { --a: var(--rosa); }
-.ruta { display: grid; place-items: center; width: 64px; height: 64px; border-radius: var(--knapp-horn); font-family: var(--rubrik); font-size: 1.1rem; color: var(--text-mork); background: color-mix(in srgb, var(--a, var(--petrol)) 40%, var(--vit)); }
+.ruta { display: grid; place-items: center; width: 64px; height: 64px; border-radius: var(--knapp-horn); font-family: var(--rubrik); font-size: 1.1rem; color: var(--text-mork); background: none; overflow: hidden; }
+.ruta img { width: 64px; height: 64px; display: block; }
 .lank h2 { font-size: 1.3rem; margin-bottom: .2em; }
 .lank h2 a { color: var(--text); text-decoration: none; }
 .lank h2 a:hover { color: var(--hallon-fylld); text-decoration: underline; }
