@@ -131,6 +131,8 @@ p { margin: 0 0 1em; }
 .inlagg { display: grid; gap: 16px; margin-top: 28px; }
 .inlagg a.kort { display: block; color: var(--text); text-decoration: none; transition: transform .2s ease; }
 .inlagg a.kort:hover { transform: translateY(-2px); }
+/* Varje uppgift får en egen färg ur paletten */
+.inlagg a.kort:nth-child(9n+1) { --a: var(--hallon); } .inlagg a.kort:nth-child(9n+2) { --a: var(--persika); } .inlagg a.kort:nth-child(9n+3) { --a: var(--guld); } .inlagg a.kort:nth-child(9n+4) { --a: var(--salvia); } .inlagg a.kort:nth-child(9n+5) { --a: var(--gron); } .inlagg a.kort:nth-child(9n+6) { --a: var(--himmel); } .inlagg a.kort:nth-child(9n+7) { --a: var(--rosa); } .inlagg a.kort:nth-child(9n+8) { --a: var(--petrol); } .inlagg a.kort:nth-child(9n+9) { --a: var(--lavendel); }
 .datum { color: var(--petrol); font-size: .95rem; }
 .prose h2 { font-size: 1.6rem; margin-top: 1.6em; }
 .prose code { background: var(--yta); padding: 2px 6px; border-radius: 6px; }

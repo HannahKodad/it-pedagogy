@@ -29,3 +29,9 @@ Min väg genom livet och arbetet är kanske ovanlig, men för mig är den helt l
 Min kanske största hobby är vandring. I år fick jag möjligheten att bli arrangör och guide för vandringsresor för kvinnor 50+ här i Sverige. Det är en perfekt balans. Tiden som jag är online i den digitala världen väger jag upp med tid helt offline, ute i naturen.
 
 Jag är väldigt glad att jag får studera till IT-pedagog på Tärna folkhögskola. Utbildningen ska hjälpa mig att kunna undervisa här i Sverige.
+
+… och jag älskar havet!
+
+<figure class="uppg-bild">
+  <img src="{{ '/assets/img/hannah-havet-1400.webp' | relative_url }}" srcset="{{ '/assets/img/hannah-havet-800.webp' | relative_url }} 800w, {{ '/assets/img/hannah-havet-1400.webp' | relative_url }} 1400w" sizes="(min-width: 760px) 680px, 92vw" alt="Hannah vid havet en blåsig dag, i röd jacka" width="1400" height="1052" loading="lazy">
+</figure>
