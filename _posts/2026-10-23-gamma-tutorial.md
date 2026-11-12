@@ -9,22 +9,16 @@ namn: "Gamma.app"
 ingress: "Vad gör en instruktionsvideo till ett bra undervisningsmaterial?"
 ---
 
-## Uppgiften
+Jag har valt en video som visar hur man skapar en presentation i Gamma utifrån eget undervisningsmaterial eller egna anteckningar. Jag använder gärna Gamma eftersom jag snabbt och enkelt kan skapa presentationer för olika ämnen och olika medier och samtidigt hålla en visuell och innehållsmässig linje. Det är inspirerande för mig att se hur andra använder eller lär ut samma verktyg.
 
-Jag valde en instruktionsvideo om ett presentationsverktyg och bedömde den ur ett IT-pedagogiskt perspektiv.
+Ur ett IT-pedagogiskt perspektiv uppskattar jag tre huvudsakliga styrkor i videon:
 
-## Videon
+- **Steg för steg:** Hon guidar användaren från att lägga in innehåll till att presentera och dela. Man kan prova de olika stegen direkt.
+- **Anpassning till målgruppen:** Hela hennes sätt att presentera riktar sig till hennes egen åldersgrupp. Hon visar hur man anpassar språket, begränsar textmängden och visar en punkt i taget för att hjälpa åhörarna att hålla uppmärksamheten.
+- **Kontroll över innehållet:** Hon rekommenderar att man utgår från eget material och sedan anpassar resultatet efter publikens behov.
 
-Jag valde [en video om Gamma](https://www.youtube.com/watch?v=VgH5wWVy_64). Den visar hur man skapar en presentation utifrån eget material. Jag använder gärna Gamma, eftersom jag snabbt kan skapa presentationer och hålla en tydlig linje.
+Slutet på videon är kort och snabbt: Här avslutar ni, och så är det klart. Och titta på mina andra videor.
 
-## Det här är bra i videon
+Vad gör den här videon till ett bra undervisningsmaterial? I den valda videon tycker jag om sättet som den unga kvinnan presenterar på – videon är gjord för att lära studenter, inte för chefer eller marknadsföring. Hon talar tydligt och direkt. Som exempel på hur man arbetar med bilder använder hon valpar. Hon är ännu ingen professionell talare, men hon är väldigt naturlig och videon är lätt att följa. Det är inspirerande för mig eftersom jag arbetar med vuxna, och hennes sätt ger mig bra inspiration till hur man kan undervisa unga människor.
 
-- **Steg för steg:** Man kan prova varje steg direkt.
-- **Anpassad till målgruppen:** Hon visar hur man begränsar texten och visar en punkt i taget.
-- **Kontroll över innehållet:** Hon börjar med eget material och anpassar sedan resultatet.
-
-Hon talar tydligt och naturligt. Videon är gjord för att lära studenter, inte för marknadsföring. Slutet är dock väldigt kort.
-
-## Det tar jag med mig
-
-Jag arbetar med vuxna. Videon gav mig inspiration till hur man kan undervisa unga människor.
+<https://www.youtube.com/watch?v=VgH5wWVy_64>
