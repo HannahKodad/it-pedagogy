@@ -175,3 +175,6 @@ p { margin: 0 0 1em; }
 .delar a:hover { text-decoration: underline; }
 .prose h2[id] { scroll-margin-top: 90px; }
 .grupp { background: var(--vit); border-left: 4px solid var(--salvia); padding: 12px 16px; }
+.amne > h3.del { margin: 26px 0 0; font-size: 1.15rem; color: var(--petrol); }
+.uppgiften { background: var(--vit); border-left: 4px solid var(--petrol); padding: 14px 20px; margin-bottom: 24px; }
+.uppgiften p:last-child, .uppgiften ul:last-child { margin-bottom: 0; }

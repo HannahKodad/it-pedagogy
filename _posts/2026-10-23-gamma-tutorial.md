@@ -6,8 +6,13 @@ amne: "Presentationsverktyg"
 nr: "14"
 ordning: "14a"
 namn: "Gamma.app"
-ingress: "Vad gör en instruktionsvideo till ett bra undervisningsmaterial?"
 ---
+
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>Gå ut på Youtube (eller liknande öppen plattform) och sök efter filmer som visar på hur ett utvalt presentationsverktyg fungerar eller används. Det kan beskriva helheten eller djupdyka i en särskild funktion i verktyget. När du hittat en riktig favorit så skall du lägga den som en länk i kursflödet. Du ska även kommentera och motivera ditt val. Tänk som en IT-pedagog, vad gör just denna instruktion till en bra instruktion, vad har den för styrkor?</p>
+<p>Markera uppgiften som klar när du gjort detta.</p>
+</div>
 
 Jag har valt en video som visar hur man skapar en presentation i Gamma utifrån eget undervisningsmaterial eller egna anteckningar. Jag använder gärna Gamma eftersom jag snabbt och enkelt kan skapa presentationer för olika ämnen och olika medier och samtidigt hålla en visuell och innehållsmässig linje. Det är inspirerande för mig att se hur andra använder eller lär ut samma verktyg.
 
