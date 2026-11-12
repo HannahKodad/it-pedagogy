@@ -1,0 +1,13 @@
+# Ämnen i samma ordning som föreläsningarna. Namn = mappens namn på Drive.
+- { namn: "Presentera dig", farg: hallon }
+- { namn: "Distansarbete", farg: persika }
+- { namn: "Vad är pedagogik?", farg: guld }
+- { namn: "Reflektion, eget lärande", farg: salvia }
+- { namn: "Ordbehandling", farg: gron }
+- { namn: "Termer och begrepp", farg: himmel }
+- { namn: "Hemsidor", farg: rosa }
+- { namn: "Framförandeteknik", farg: petrol }
+- { namn: "Bildbehandling", farg: lavendel }
+- { namn: "AI Introduktion", farg: hallon }
+- { namn: "Pedagogik med digitala verktyg", farg: persika }
+- { namn: "Presentationsverktyg", farg: gron }

@@ -1,7 +1,11 @@
 ---
 layout: post
 kategori: uppgift
-title: "Hur jag använder IKT-pedagogik"
+title: "Framförandeteknik: Hur jag använder IKT-pedagogik"
+amne: "Framförandeteknik"
+nr: "08"
+ordning: "08c"
+namn: "Hur jag använder IKT-pedagogik"
 ingress: "En presentation om individuell undervisning i AI. Presentationen finns som PDF."
 ---
 

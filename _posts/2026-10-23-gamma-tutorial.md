@@ -1,7 +1,11 @@
 ---
 layout: post
 kategori: uppgift
-title: "Presentationsverktyg – Gamma.app"
+title: "Presentationsverktyg: Gamma.app"
+amne: "Presentationsverktyg"
+nr: "14"
+ordning: "14a"
+namn: "Gamma.app"
 ingress: "Vad gör en instruktionsvideo till ett bra undervisningsmaterial?"
 ---
 

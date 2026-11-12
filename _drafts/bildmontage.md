@@ -1,8 +1,11 @@
 ---
 layout: post
 kategori: uppgift
-title: "Bildmontage: jag tre gånger i trädgården"
-kurs: Bildbehandling 1
+title: "Bildbehandling: Bildmontage – jag tre gånger i trädgården"
+amne: "Bildbehandling"
+nr: "09"
+ordning: "09a"
+namn: "Bildmontage: jag tre gånger i trädgården"
 ingress: "Samma person flera gånger i samma bild – med lager."
 ---
 

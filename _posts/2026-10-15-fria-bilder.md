@@ -1,8 +1,11 @@
 ---
 layout: post
 kategori: uppgift
-title: "Fria bilder och upphovsrätt"
-kurs: Bildbehandling 1
+title: "Bildbehandling: Fria bilder och upphovsrätt"
+amne: "Bildbehandling"
+nr: "09"
+ordning: "09a"
+namn: "Fria bilder och upphovsrätt"
 ingress: "Får jag använda andras bilder i skolan och på webben?"
 ---
 

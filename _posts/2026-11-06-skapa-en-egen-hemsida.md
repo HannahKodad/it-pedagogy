@@ -1,8 +1,11 @@
 ---
 layout: post
 kategori: uppgift
-title: "Skapa en egen hemsida"
-kurs: Pedagogik och digitala verktyg
+title: "Hemsidor: Skapa en egen hemsida"
+amne: "Hemsidor"
+nr: "07"
+ordning: "07a"
+namn: "Skapa en egen hemsida"
 ingress: "Hur jag byggde den här webbplatsen."
 ---
 

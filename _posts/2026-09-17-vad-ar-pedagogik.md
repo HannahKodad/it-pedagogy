@@ -2,6 +2,10 @@
 layout: post
 kategori: uppgift
 title: "Vad är pedagogik?"
+amne: "Vad är pedagogik?"
+nr: "03"
+ordning: "03a"
+namn: "Vad är pedagogik?"
 ingress: "Ett grupparbete om vad som gör en bra pedagog."
 ---
 

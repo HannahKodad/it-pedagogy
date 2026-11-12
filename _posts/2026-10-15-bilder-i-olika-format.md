@@ -1,8 +1,11 @@
 ---
 layout: post
 kategori: uppgift
-title: "Bilder i olika format"
-kurs: Bildbehandling 1
+title: "Bildbehandling: Bilder i olika format"
+amne: "Bildbehandling"
+nr: "10"
+ordning: "10a"
+namn: "Bilder i olika format"
 ingress: "Tre bilder, tre krav: storlek, genomskinlighet och text."
 ---
 

@@ -1,7 +1,11 @@
 ---
 layout: post
 kategori: uppgift
-title: "Respons på en presentation"
+title: "Framförandeteknik: Respons på en presentation"
+amne: "Framförandeteknik"
+nr: "08"
+ordning: "08b"
+namn: "Respons på en presentation"
 ingress: "Att ge respons på klasskamraternas presentationer – och lära sig själv."
 ---
 

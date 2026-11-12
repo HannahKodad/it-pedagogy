@@ -5,15 +5,26 @@ title: Uppgifter
 permalink: /uppgifter/
 description: Hannah Kodads uppgifter från IT-pedagogutbildningen på Tärna folkhögskola.
 ---
-<p class="ingress">Mina uppgifter från IT-pedagogutbildningen. Den senaste ligger överst.</p>
-<div class="inlagg">
-  {% assign uppg = site.posts | where: "kategori", "uppgift" %}
-  {% for post in uppg %}
-  <a class="kort" href="{% if post.extern %}{{ post.extern }}{% else %}{{ post.url | relative_url }}{% endif %}"{% if post.extern %} target="_blank" rel="noopener"{% endif %}>
-    <p class="datum">{% if post.kurs %}{{ post.kurs }} · {% endif %}{{ post.date | date: "%Y-%m-%d" }}</p>
-    <h2>{{ post.title }}</h2>
-    {% if post.ingress %}<p>{{ post.ingress }}</p>{% endif %}
-    {% if post.extern %}<p class="extern">{{ post.extern_text | default: "Öppna" }} ↗</p>{% endif %}
-  </a>
-  {% endfor %}
-</div>
+<p class="ingress">Mina uppgifter från IT-pedagogutbildningen, ordnade efter ämne. Numren visar i vilken ordning jag har gjort dem.</p>
+{% assign uppg = site.posts | where: "kategori", "uppgift" %}
+<nav class="amnen" aria-label="Ämnen">
+  {% for a in site.data.amnen %}{% assign lista = uppg | where: "amne", a.namn %}{% if lista.size > 0 %}<a href="#{{ a.namn | slugify }}" style="--a: var(--{{ a.farg }})">{{ a.namn }}</a>{% endif %}{% endfor %}
+</nav>
+{% for a in site.data.amnen %}
+{% assign lista = uppg | where: "amne", a.namn | sort: "ordning" %}
+{% if lista.size > 0 %}
+<section class="amne" id="{{ a.namn | slugify }}" style="--a: var(--{{ a.farg }})">
+  <h2>{{ a.namn }}</h2>
+  <div class="inlagg">
+    {% for post in lista %}
+    <a class="kort" href="{% if post.extern %}{{ post.extern }}{% else %}{{ post.url | relative_url }}{% endif %}"{% if post.extern %} target="_blank" rel="noopener"{% endif %}>
+      {% if post.nr != "" %}<p class="datum">Uppgift {{ post.nr }}</p>{% endif %}
+      <h3>{{ post.namn | default: post.title }}</h3>
+      {% if post.ingress %}<p>{{ post.ingress }}</p>{% endif %}
+      {% if post.extern %}<p class="extern">{{ post.extern_text | default: "Öppna" }} ↗</p>{% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+{% endfor %}
