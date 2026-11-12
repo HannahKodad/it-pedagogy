@@ -9,6 +9,12 @@ namn: "Olika teckenformat"
 ingress: "Teckensnitt, storlek, färg, understrykning och effekter – samma text i två versioner."
 ---
 
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>Här ska ni skapa en exakt kopia av Teckenformat.pdf om olika teckenformat.<br>Texten ni ska formatera finns i dokumentet tecken.docx nedan.</p>
+<p><strong>Inlämning:</strong> Skicka in det färdiga dokumentet i Classroom när du är färdig med uppgiften.</p>
+</div>
+
 Rubrikerna har färgöverstrykning Grå-25 %, och indragningarna är gjorda med tabbstopp.
 
 Dokumentet har två flikar med samma text. I den andra versionen är huvudrubriken fet.
