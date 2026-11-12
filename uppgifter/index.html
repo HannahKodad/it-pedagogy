@@ -9,10 +9,11 @@ description: Hannah Kodads uppgifter från IT-pedagogutbildningen på Tärna fol
 <div class="inlagg">
   {% assign uppg = site.posts | where: "kategori", "uppgift" %}
   {% for post in uppg %}
-  <a class="kort" href="{{ post.url | relative_url }}">
+  <a class="kort" href="{% if post.extern %}{{ post.extern }}{% else %}{{ post.url | relative_url }}{% endif %}"{% if post.extern %} target="_blank" rel="noopener"{% endif %}>
     <p class="datum">{% if post.kurs %}{{ post.kurs }} · {% endif %}{{ post.date | date: "%Y-%m-%d" }}</p>
     <h2>{{ post.title }}</h2>
     {% if post.ingress %}<p>{{ post.ingress }}</p>{% endif %}
+    {% if post.extern %}<p class="extern">{{ post.extern_text | default: "Öppna" }} ↗</p>{% endif %}
   </a>
   {% endfor %}
 </div>

@@ -155,3 +155,6 @@ p { margin: 0 0 1em; }
   background-image: conic-gradient(var(--yta) 25%, transparent 0 50%, var(--yta) 0 75%, transparent 0);
   background-size: 24px 24px;
 }
+
+/* Uppgift som öppnar en extern sida */
+.kort .extern { margin: .4em 0 0; font-weight: 600; color: var(--hallon-fylld); }
