@@ -11,6 +11,14 @@ ingress: "Får jag använda andras bilder i skolan och på webben?"
 
 <div class="uppgiften">
 <p><strong>Uppgiften</strong></p>
+<p>Bland klassmaterialen här ovanför finns ett antal länkar som handlar om vad man får och inte får göra med upphovsrättsskyddade bilder. En av länkarna ger information om speciella regler som gäller i skolan.</p>
+<p>När du läst om hur upphovsrättsskyddet och Creative Commons fungerar kan du svara på några frågor i det bifogade dokumentet.</p>
+<p>Det finns också några länkar till sajter som hjälper dig att hitta bilder som är okej att använda i egna arbeten, till och med kommersiellt arbete.</p>
+<p>Läs även vad för regler som gäller exempelvis på <a href="https://se.freeimages.com/photo/fox-1522156" target="_blank" rel="noopener">https://se.freeimages.com/photo/fox-1522156</a> Så Ni får en förståelse att det finns andra överenskommelser mellan parterna.</p>
+<p>Tipsa gärna varandra i vårt gemensamma forum om du hittar andra webbresurser som du använder för att hitta bilder. Och naturligtvis kan du starta en diskussion för att höra hur andra i klassen uppfattar det här med upphovsrätt.</p>
+<p>När du svarat på frågorna i det bifogade dokumentet markerar du uppgiften som klar.</p>
+<p><strong>Uppgifter Ni skall svara på:</strong></p>
+<ol><li>Svara på frågorna i det bifogade dokumentet. OBS! Ni svarar under varje fråga som ställs och sedan laddar Ni upp det dokumentet i uppgiften.</li></ol>
 <p>Under IT-pedagogutbildningen kommer du att få i uppgift att skapa textdokument, presentationer och webbsidor. Ganska ofta vill du använda andras bilder i dina egna arbeten.</p>
 </div>
 

@@ -9,13 +9,13 @@ namn: "Bilder i olika format"
 ingress: "Tre bilder, tre krav: storlek, genomskinlighet och text."
 ---
 
-## Uppgiften
-
-Jag skulle spara tre bilder enligt olika krav. Alla bilder skulle vara komprimerade för webben.
-
-1. **Bild 1:** 1000 × 800 pixlar, jpg.
-2. **Bild 2:** 800 × 800 pixlar, png, delvis genomskinlig.
-3. **Bild 3:** med text på bilden, valfritt format.
+<div class="uppgiften">
+<p><strong>Uppgiften</strong></p>
+<p>I denna inlämningsuppgift skall Ni ladda upp bilder som stämmer med de format som anges. För att klara denna övning så måste man hantera flera olika verktyg/moment i fotoredigeringsprogram. Alla bilderna som Ni laddar upp skall vara komprimerade för webbanvändning. Det är även viktigt hur Ni döper själva filen som Ni spar. På Internet så finns det vissa problem med ÅÄÖ och mellanslag i filnamn. Vill Ni ha ett mellanslag så önskar jag att Ni ersätter det med - eller _. Lycka till!</p>
+<p>Bild nr. 1 = Skall vara 1000 x 800 pixlar och vara i jpg format</p>
+<p>Bild nr. 2 = Skall vara i 800 x 800 pixlar och delar av bilden skall vara genomskinlig samt png format</p>
+<p>Bild nr. 3 = Här skall text finnas med på själva bilden, i övrigt valfritt format.</p>
+</div>
 
 ## Mina bilder
 
