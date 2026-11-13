@@ -35,6 +35,16 @@ ingress: "Ett grupparbete med två kompisar om vad som gör en bra pedagog."
 <p>Redovisa ert resultat från den skriftliga uppgiften inför hela gruppen. Varje grupp har cirka 15 minuter till sitt förfogande vid den muntliga redovisningen. Detta sker under träff 2.</p>
 </div>
 
+## Presentationen
+
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/vad-ar-pedagogik-1.webp' | relative_url }}" alt="Bild 1: Vad är pedagogik? – titelbild med ett klassrum." width="1000" height="563" loading="lazy"></figure>
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/vad-ar-pedagogik-2.webp' | relative_url }}" alt="Bild 2: Egenskaper – didaktiskt perspektiv och personligt perspektiv." width="1000" height="563" loading="lazy"></figure>
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/vad-ar-pedagogik-3.webp' | relative_url }}" alt="Bild 3: Pedagog vs icke pedagog." width="1000" height="563" loading="lazy"></figure>
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/vad-ar-pedagogik-4.webp' | relative_url }}" alt="Bild 4: Alternativa lärstilar." width="1000" height="563" loading="lazy"></figure>
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/vad-ar-pedagogik-5.webp' | relative_url }}" alt="Bild 5: IKT – pedagogens ansvar. ”Tekniken ska tjäna pedagogiken – inte tvärtom.”" width="1000" height="563" loading="lazy"></figure>
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/vad-ar-pedagogik-6.webp' | relative_url }}" alt="Bild 6: Vad väntar pedagogen i framtiden?" width="1000" height="563" loading="lazy"></figure>
+<figure class="uppg-bild"><img src="{{ '/assets/img/uppgifter/vad-ar-pedagogik-7.webp' | relative_url }}" alt="Bild 7: Vad är pedagogik? – gruppen och tack för uppmärksamheten." width="1000" height="563" loading="lazy"></figure>
+
 ## Presentation – mina bilder
 
 ### Pedagog vs. icke-pedagog
