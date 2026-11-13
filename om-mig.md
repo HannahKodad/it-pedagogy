@@ -10,7 +10,7 @@ Jag heter Hannah Kodad. Jag bor i Tärna prästgård i mellersta Sverige och stu
 
 Vem är jag? Jag är en modig kvinna. Mamma till tre söner. Mikaels fru. I livet följer jag enkla regler: respekt, hänsyn, ärlighet och viljan att älska.
 
-I Sverige har något intressant hänt med mig: jag har börjat ha roligt i mitt liv. Allt som kommer är roligt. Att lära mig, prov, uppgifter, utmaningar i jobbet, vardagens glädje och till och med bekymmer (fast det märker jag först i efterhand :-D).
+I Sverige har något intressant hänt med mig: jag har börjat ha roligt i mitt liv. Allt som kommer är roligt. Att lära mig, prov, uppgifter, utmaningar i jobbet, vardagens glädje och till och med bekymmer (fast det märker jag först i efterhand :-D). Glädje är ett val.
 
 Mitt arbete har alltid handlat om människor. Först arbetade jag som socialpedagog på ett barnhem i Tjeckien. Sedan blev jag psykoterapeut på ett psykiatriskt sjukhus. Jag specialiserade mig på konstterapi. Jag har studerat socialpedagogik på universitetet och sedan psykoterapi i tre år. Jag har också gått en femårig psykoterapeutisk utbildning med egenterapi.
 
